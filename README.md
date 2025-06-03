@@ -24,7 +24,7 @@ This is a minimal bootloader written in **x86 Assembly**. It runs directly on ha
 
 ### Build
 
-```bash
+```
 nasm -f bin boot.asm -o boot.img
 ````
 
@@ -62,6 +62,6 @@ Thanks to the open-source community, ChatGPT, and countless tutorials and forums
 
 ```
 
----
+
 
 
