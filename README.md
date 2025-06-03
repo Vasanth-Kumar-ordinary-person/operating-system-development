@@ -1,3 +1,5 @@
+
+
 ---
 
 ````markdown
@@ -56,10 +58,10 @@ qemu-system-x86_64 -drive format=raw,file=boot.img
 
 ## 🙏 Acknowledgments
 
-Thanks to the open-source community and countless tutorials and forums that made understanding low-level system internals possible.
+Thanks to the open-source community, ChatGPT, and countless tutorials and forums that made understanding low-level system internals possible.
 
 ```
 
 ---
 
-
+```
